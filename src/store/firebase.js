@@ -5,13 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1jjA-plAuUrbl5qnY-c-LR2-WtPSDuvw",
-  authDomain: "reactmeals-6b983.firebaseapp.com",
-  databaseURL: "https://reactmeals-6b983-default-rtdb.firebaseio.com",
-  projectId: "reactmeals-6b983",
-  storageBucket: "reactmeals-6b983.appspot.com",
-  messagingSenderId: "855790945737",
-  appId: "1:855790945737:web:a3d11c9843e94991429418"
+  apiKey: 
+  authDomain: 
+  databaseURL: 
+  projectId: 
+  storageBucket: 
+  messagingSenderId: 
+  appId: 
 };
 
 // Initialize Firebase
